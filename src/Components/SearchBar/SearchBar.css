@@ -1,0 +1,25 @@
+.searchBar {
+    
+}
+
+input {
+    width: 13rem;
+    margin-right: 1rem;
+    height: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border: 2px solid #008F7A;
+    text-align: center;
+    color: #008F7A;
+}
+
+button {
+    width: 9.5rem;
+    margin-left: 1rem;
+    height: 2.4rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border: 2px solid #008F7A;
+    background-color: white;
+    color: #008F7A;
+}

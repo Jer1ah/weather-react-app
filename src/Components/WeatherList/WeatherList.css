@@ -1,0 +1,12 @@
+.weatherList {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin-top: 3.5rem;
+}
+
+h1 {
+    color: #008F7A;
+}
